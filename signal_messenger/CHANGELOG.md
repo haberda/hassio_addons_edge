@@ -1,4 +1,5 @@
 # Changelog since 0.88.0
+- Update to 0.89 upstream 
 - Merge pull request #154 from haberda/dependabot/github_actions/docker/build-push-action-6.7.0
 
 Bump docker/build-push-action from 6.6.1 to 6.7.0 
