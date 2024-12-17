@@ -1,4 +1,27 @@
 # Changelog since 0.89.0
+- Update build.yaml
+
+Update to 0.90 upstream 
+- Update Dockerfile
+
+Update to 0.90 upstream 
+- Merge pull request #169 from haberda/dependabot/github_actions/docker/setup-buildx-action-3.8.0
+
+Bump docker/setup-buildx-action from 3.7.1 to 3.8.0 
+- Bump docker/setup-buildx-action from 3.7.1 to 3.8.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3.7.1 to 3.8.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v3.7.1...v3.8.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #167 from haberda/dependabot/github_actions/docker/build-push-action-6.10.0
 
 Bump docker/build-push-action from 6.9.0 to 6.10.0 
