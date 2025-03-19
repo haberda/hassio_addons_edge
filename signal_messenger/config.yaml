@@ -1,6 +1,6 @@
 name: Signal Messenger
 url: https://github.com/haberda/signal-addon/tree/master/
-version: 60d1d3e
+version: 41ac171
 slug: signal_messenger
 arch:
 - aarch64
