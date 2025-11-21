@@ -1,76 +1,55 @@
-# Changelog since 0.94.0
-- Update to 0.95 upstream 
-- Merge pull request #196 from haberda/dependabot/github_actions/actions/cache-4.3.0
+# Changelog since 0.95.0
+- Merge pull request #200 from haberda/dependabot/github_actions/docker/setup-qemu-action-3.7.0
 
-Bump actions/cache from 4.2.2 to 4.3.0 
-- Merge pull request #197 from haberda/dependabot/github_actions/docker/login-action-3.6.0
+Bump docker/setup-qemu-action from 3.6.0 to 3.7.0 
+- Merge pull request #202 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.21.0
 
-Bump docker/login-action from 3.3.0 to 3.6.0 
-- Merge pull request #198 from haberda/dependabot/github_actions/peter-evans/repository-dispatch-4.0.0
+Bump frenck/action-addon-linter from 2.17.1 to 2.21.0 
+- Merge pull request #203 from haberda/dependabot/github_actions/peter-evans/repository-dispatch-4.0.1
 
-Bump peter-evans/repository-dispatch from 3.0.0 to 4.0.0 
-- Bump peter-evans/repository-dispatch from 3.0.0 to 4.0.0
+Bump peter-evans/repository-dispatch from 4.0.0 to 4.0.1 
+- Bump peter-evans/repository-dispatch from 4.0.0 to 4.0.1
 
-Bumps [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) from 3.0.0 to 4.0.0.
+Bumps [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) from 4.0.0 to 4.0.1.
 - [Release notes](https://github.com/peter-evans/repository-dispatch/releases)
-- [Commits](https://github.com/peter-evans/repository-dispatch/compare/v3.0.0...v4.0.0)
+- [Commits](https://github.com/peter-evans/repository-dispatch/compare/v4.0.0...v4.0.1)
 
 ---
 updated-dependencies:
 - dependency-name: peter-evans/repository-dispatch
-  dependency-version: 4.0.0
+  dependency-version: 4.0.1
   dependency-type: direct:production
-  update-type: version-update:semver-major
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump docker/login-action from 3.3.0 to 3.6.0
+- Bump frenck/action-addon-linter from 2.17.1 to 2.21.0
 
-Bumps [docker/login-action](https://github.com/docker/login-action) from 3.3.0 to 3.6.0.
-- [Release notes](https://github.com/docker/login-action/releases)
-- [Commits](https://github.com/docker/login-action/compare/v3.3.0...v3.6.0)
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.17.1 to 2.21.0.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.17.1...v2.21.0)
 
 ---
 updated-dependencies:
-- dependency-name: docker/login-action
-  dependency-version: 3.6.0
+- dependency-name: frenck/action-addon-linter
+  dependency-version: 2.21.0
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump actions/cache from 4.2.2 to 4.3.0
+- Bump docker/setup-qemu-action from 3.6.0 to 3.7.0
 
-Bumps [actions/cache](https://github.com/actions/cache) from 4.2.2 to 4.3.0.
-- [Release notes](https://github.com/actions/cache/releases)
-- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
-- [Commits](https://github.com/actions/cache/compare/v4.2.2...v4.3.0)
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 3.6.0 to 3.7.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v3.6.0...v3.7.0)
 
 ---
 updated-dependencies:
-- dependency-name: actions/cache
-  dependency-version: 4.3.0
+- dependency-name: docker/setup-qemu-action
+  dependency-version: 3.7.0
   dependency-type: direct:production
   update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #195 from haberda/dependabot/github_actions/actions/stale-10
-
-Bump actions/stale from 9 to 10 
-- Bump actions/stale from 9 to 10
-
-Bumps [actions/stale](https://github.com/actions/stale) from 9 to 10.
-- [Release notes](https://github.com/actions/stale/releases)
-- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/stale/compare/v9...v10)
-
----
-updated-dependencies:
-- dependency-name: actions/stale
-  dependency-version: '10'
-  dependency-type: direct:production
-  update-type: version-update:semver-major
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
