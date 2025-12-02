@@ -1,4 +1,23 @@
 # Changelog since 0.95.0
+- Merge pull request #204 from haberda/dependabot/github_actions/actions/checkout-6
+
+Bump actions/checkout from 4 to 6 
+- Bump actions/checkout from 4 to 6
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 4 to 6.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v4...v6)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-version: '6'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #200 from haberda/dependabot/github_actions/docker/setup-qemu-action-3.7.0
 
 Bump docker/setup-qemu-action from 3.6.0 to 3.7.0 
