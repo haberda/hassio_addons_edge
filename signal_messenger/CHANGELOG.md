@@ -1,4 +1,5 @@
 # Changelog since 0.95.0
+- Update to 0.96 upstream 
 - Merge pull request #204 from haberda/dependabot/github_actions/actions/checkout-6
 
 Bump actions/checkout from 4 to 6 
