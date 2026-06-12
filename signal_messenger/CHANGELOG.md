@@ -1,4 +1,5 @@
 # Changelog since 0.99.0
+- Initial support for plugins 
 - Update to 0.100 upstream 
 - Merge pull request #226 from haberda/dependabot/github_actions/docker/login-action-4.2.0
 
