@@ -1,4 +1,5 @@
 # Changelog since 0.99.0
+- Update to 0.100 upstream 
 - Merge pull request #226 from haberda/dependabot/github_actions/docker/login-action-4.2.0
 
 Bump docker/login-action from 4.1.0 to 4.2.0 
