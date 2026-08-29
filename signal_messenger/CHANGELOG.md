@@ -1,4 +1,6 @@
 # Changelog since 0.100.1
+- Remove commented out code 
+- fix: correct broken AUTO_RECEIVE toggle and guard empty timeout in options.sh 
 - Merge pull request #245 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.21.1
 
 Bump frenck/action-addon-linter from 2.21.0 to 2.21.1 
