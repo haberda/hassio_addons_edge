@@ -1,6 +1,22 @@
 # Changelog since 0.100.1
+- Fix BUILD_FROM 
+- Remove deprecated reset data option documentation 
+- Add support for json-rpc-native 
+- Remove armv7 
+- Merge pull request #247 from cherub-i/feature/default-signal-text-mode
+
+add option to set default signal text mode 
+- Merge branch 'main' into feature/default-signal-text-mode 
+- fix line endings 
+- add option to set default signal text mode 
+- Remove armv7 due to home assistant deprecation 
 - Remove commented out code 
 - fix: correct broken AUTO_RECEIVE toggle and guard empty timeout in options.sh 
+- Remove armv7 due to home assistant deprecation 
+- Remove commented out code 
+- fix: correct broken AUTO_RECEIVE toggle and guard empty timeout in options.sh 
+- fix line endings 
+- add option to set default signal text mode 
 - Merge pull request #245 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.21.1
 
 Bump frenck/action-addon-linter from 2.21.0 to 2.21.1 
