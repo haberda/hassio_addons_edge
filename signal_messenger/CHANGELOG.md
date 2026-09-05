@@ -1,4 +1,10 @@
 # Changelog since 0.100.1
+- Add security docs 
+- Update spellcheck 
+- Fix formatting issues 
+- Update folder mapping to app_config 
+- Enable stricter linting 
+- Remove commented out lines 
 - Fix BUILD_FROM 
 - Remove deprecated reset data option documentation 
 - Add support for json-rpc-native 

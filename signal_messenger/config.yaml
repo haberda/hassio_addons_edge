@@ -1,6 +1,6 @@
 name: Signal Messenger
 url: https://github.com/haberda/signal-addon
-version: 73e6d1f
+version: 9921f67
 slug: signal_messenger
 arch:
 - aarch64
@@ -17,7 +17,7 @@ options:
   SIGNAL_CLI_CMD_TIMEOUT: 60
   DEFAULT_SIGNAL_TEXT_MODE: normal
 map:
-- addon_config:rw
+- app_config:rw
 schema:
   mode: list(normal|native|json-rpc|json-rpc-native)
   AUTO_RECEIVE: bool
