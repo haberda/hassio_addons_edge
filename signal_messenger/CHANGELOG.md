@@ -1,6 +1,63 @@
 # Changelog since 0.100.1
+- Add gitignore 
+- Merge branch 'main' of https://github.com/haberda/signal-addon 
+- Fix prettier_action 
+- Merge pull request #251 from haberda/dependabot/github_actions/creyD/prettier_action-4.6
+
+Bump creyD/prettier_action from 3.3 to 4.6 
+- Merge pull request #249 from haberda/dependabot/github_actions/frenck/action-yamllint-1.5
+
+Bump frenck/action-yamllint from 1.1 to 1.5 
+- Merge pull request #248 from haberda/dependabot/github_actions/docker/setup-qemu-action-4.3.0
+
+Bump docker/setup-qemu-action from 4.2.0 to 4.3.0 
 - Add security docs 
+- Bump docker/setup-qemu-action from 4.2.0 to 4.3.0
+
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 4.2.0 to 4.3.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v4.2.0...v4.3.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-qemu-action
+  dependency-version: 4.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Update spellcheck 
+- Bump creyD/prettier_action from 3.3 to 4.6
+
+Bumps [creyD/prettier_action](https://github.com/creyd/prettier_action) from 3.3 to 4.6.
+- [Release notes](https://github.com/creyd/prettier_action/releases)
+- [Commits](https://github.com/creyd/prettier_action/compare/v3.3...v4.6)
+
+---
+updated-dependencies:
+- dependency-name: creyD/prettier_action
+  dependency-version: '4.6'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump frenck/action-yamllint from 1.1 to 1.5
+
+Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from 1.1 to 1.5.
+- [Release notes](https://github.com/frenck/action-yamllint/releases)
+- [Commits](https://github.com/frenck/action-yamllint/compare/v1.1...v1.5)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-yamllint
+  dependency-version: '1.5'
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Fix formatting issues 
 - Update folder mapping to app_config 
 - Enable stricter linting 
