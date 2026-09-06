@@ -1,4 +1,6 @@
 # Changelog since 0.100.1
+- feat: expose JSON-RPC media settings 
+- feat: add configurable log level 
 - Add gitignore 
 - Merge branch 'main' of https://github.com/haberda/signal-addon 
 - Fix prettier_action 
