@@ -1,4 +1,6 @@
 # Changelog since 0.100.3
+- ingress_port: 8099 removed because it's default 
+- fix: finalize rootless addon services 
 - fix: support rootless s6 startup 
 - fix: document root user for options bootstrap 
 - fix: read addon options before dropping root 
