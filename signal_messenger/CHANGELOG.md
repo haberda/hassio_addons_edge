@@ -1,4 +1,9 @@
 # Changelog since 0.100.3
+- Add tests back after making the test number more obviously fake 
+- Make example number anonymous 
+- Add tests to gitignore 
+- Merge branch 'main' of https://github.com/haberda/signal-addon 
+- Stop tracking tests directory 
 - Merge pull request #255 from haberda/dependabot/github_actions/docker/setup-buildx-action-4.4.1
 
 Bump docker/setup-buildx-action from 4.4.0 to 4.4.1 
