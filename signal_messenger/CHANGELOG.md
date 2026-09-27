@@ -1,4 +1,9 @@
 # Changelog since 0.100.3
+- Merge pull request #257 from haberda/rootless-support
+
+Rootless support 
+- feat: migrate addon to upstream 0.101 rootless runtime 
+- merge: sync rootless branch with main 
 - Add tests back after making the test number more obviously fake 
 - Make example number anonymous 
 - Add tests to gitignore 
