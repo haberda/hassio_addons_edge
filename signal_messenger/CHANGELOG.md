@@ -1,4 +1,6 @@
 # Changelog since 0.100.3
+- fix: document root user for options bootstrap 
+- fix: read addon options before dropping root 
 - Merge pull request #257 from haberda/rootless-support
 
 Rootless support 
