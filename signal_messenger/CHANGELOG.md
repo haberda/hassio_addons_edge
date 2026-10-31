@@ -1,4 +1,5 @@
 # Changelog since 0.101.0
+- Create AGENTS.md 
 - Merge pull request #261 from haberda/dependabot/github_actions/docker/login-action-4.7.0
 
 build(deps): bump docker/login-action from 4.6.0 to 4.7.0 
