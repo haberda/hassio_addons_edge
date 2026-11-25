@@ -1,7 +1,41 @@
 # Changelog since 0.101.0
+- Merge pull request #265 from haberda/chore/upstream-0.102
+
+chore: update upstream to signal-cli-rest-api 0.102 
+- Merge pull request #264 from haberda/dependabot/github_actions/docker/login-action-4.8.0
+
+build(deps): bump docker/login-action from 4.7.0 to 4.8.0 
+- fix: keep long account IDs from widening the mobile layout
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com> 
+- chore: update upstream to signal-cli-rest-api 0.102
+
+- Bump base image to 0.102 (signal-cli 0.14.10, attachment path traversal fix)
+- Accept 0.102 account objects and numberless ACI accounts in the web UI
+- Add JSON_RPC_RECEIVE_MODE option (on-start or manual)
+- Match upstream by sending JSON-RPC daemon stdout to /dev/null
+- Mark the runtime options.env source for ShellCheck (SC1091)
+- Drop version numbers from upstream workarounds that still apply
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com> 
 - Merge pull request #263 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.21.2
 
 build(deps): bump frenck/action-addon-linter from 2.21.1 to 2.21.2 
+- build(deps): bump docker/login-action from 4.7.0 to 4.8.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 4.7.0 to 4.8.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v4.7.0...v4.8.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-version: 4.8.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - build(deps): bump frenck/action-addon-linter from 2.21.1 to 2.21.2
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.21.1 to 2.21.2.

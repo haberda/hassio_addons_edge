@@ -1,6 +1,6 @@
 name: Signal Messenger
 url: https://github.com/haberda/signal-addon
-version: '7155402'
+version: '8232058'
 slug: signal_messenger
 arch:
 - aarch64
@@ -23,6 +23,7 @@ options:
   DEFAULT_SIGNAL_TEXT_MODE: normal
   LOG_LEVEL: info
   JSON_RPC_TRUST_NEW_IDENTITIES: on-first-use
+  JSON_RPC_RECEIVE_MODE: on-start
   JSON_RPC_IGNORE_ATTACHMENTS: false
   JSON_RPC_IGNORE_STORIES: false
   JSON_RPC_IGNORE_AVATARS: false
@@ -38,6 +39,7 @@ schema:
   DEFAULT_SIGNAL_TEXT_MODE: list(normal|styled)
   LOG_LEVEL: list(debug|info|warn|error)
   JSON_RPC_TRUST_NEW_IDENTITIES: list(on-first-use|always|never)
+  JSON_RPC_RECEIVE_MODE: list(on-start|manual)
   JSON_RPC_IGNORE_ATTACHMENTS: bool
   JSON_RPC_IGNORE_STORIES: bool
   JSON_RPC_IGNORE_AVATARS: bool
