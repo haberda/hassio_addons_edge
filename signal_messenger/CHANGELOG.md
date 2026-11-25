@@ -1,4 +1,15 @@
 # Changelog since 0.101.0
+- Merge pull request #266 from haberda/fix/captcha-guidance
+
+fix: explain where to get a registration CAPTCHA 
+- fix: explain where to get a registration CAPTCHA
+
+Link Signal's CAPTCHA pages from the registration and rate-limit
+challenge forms with step-by-step instructions, and strip the
+signalcaptcha:// prefix in the gateway so a pasted "Open Signal" link
+works with the REST API. Addresses issue #259.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com> 
 - Merge pull request #265 from haberda/chore/upstream-0.102
 
 chore: update upstream to signal-cli-rest-api 0.102 
