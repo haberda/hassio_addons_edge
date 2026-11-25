@@ -1,4 +1,22 @@
 # Changelog since 0.101.0
+- Merge pull request #263 from haberda/dependabot/github_actions/frenck/action-addon-linter-2.21.2
+
+build(deps): bump frenck/action-addon-linter from 2.21.1 to 2.21.2 
+- build(deps): bump frenck/action-addon-linter from 2.21.1 to 2.21.2
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.21.1 to 2.21.2.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.21.1...v2.21.2)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-version: 2.21.2
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #262 from haberda/fix/rootless-cleanup-and-features
 
 fix: clean up rootless runtime and add health, backup, and receive op… 
